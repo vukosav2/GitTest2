@@ -2,3 +2,4 @@ if True:
     z = 0
 else:
     z = 1
+print z
