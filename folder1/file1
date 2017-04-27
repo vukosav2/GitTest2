@@ -4,3 +4,4 @@ else:
     z = 1
 print z
 y = 0.1
+print y
